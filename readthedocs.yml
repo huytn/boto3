@@ -4,4 +4,4 @@ python:
     setup_py_install: true
     version: 3.7
     install:
-        - requirements: docs/requirement-docs.txt
+        - requirements: docs/requirements-docs.txt
